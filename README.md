@@ -1,5 +1,4 @@
 ## Reader and Writer
-#
 
 This is a really simple script to read file names and write to a text file.
 
@@ -19,5 +18,4 @@ After making changes, just open your terminal and run the command ```python3 scr
 I hope this script had been helpful to you.
 <br><br>
 
-#
 ## Thank you for coming!! 👋
